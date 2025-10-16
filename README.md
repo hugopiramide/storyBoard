@@ -1,4 +1,4 @@
-# storyBoard
+# StoryBoard
 
 ### Welcome to Our Student Engagement Initiative
 This website outlines a structured series of steps designed to inspire, inform, and encourage students to become part of our growing company. Through interactive activities, targeted outreach, and professional development opportunities, we aim to connect with students in meaningful ways and guide them toward a rewarding future with us.
