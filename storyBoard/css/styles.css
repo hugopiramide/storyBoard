@@ -142,3 +142,10 @@ footer {
     text-align: center;
   }
 }
+
+.footer-about{
+  margin-top: 3rem;
+}
+.footer-contact{
+  margin-top: 3rem;
+}
